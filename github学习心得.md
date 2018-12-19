@@ -1,8 +1,14 @@
 ```
-layout:	post
-title:	"github study"
+title:	Github学习心得
 date:	2018-12-19 15:45
-categories:	original
+categories:	Github
+```
+
+# 快速概览
+
+```
+1. 在github.com上创建账户
+2. 
 ```
 
 # 1 Github注册
