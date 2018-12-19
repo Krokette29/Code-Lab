@@ -1,9 +1,9 @@
----
+```
 layout:	post
 title:	"github study"
 date:	2018-12-19 15:45
 categories:	original
----
+```
 
 # 1 Github注册
 ## 1.1 关于针对学生的pro版本
