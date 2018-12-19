@@ -1,4 +1,13 @@
-# Code-Lab
-[Github学习心得（占坑)](github学习心得.md)
+# Krokette's Code Lab
 
-[如何使用Github和Hexo搭建个人博客（占坑）](如何使用Github和Hexo搭建个人博客.md)
+## 最新动态
+[2018-12-19 如何使用Github和Hexo搭建个人博客（占坑）](20181219_如何使用Github和Hexo搭建个人博客.md)
+
+[2018-12-19 Github学习心得（占坑)](20181219_github学习心得.md)
+
+### # Github
+[2018-12-19 Github学习心得（占坑)](20181219_Github学习心得.md)
+
+[2018-12-19 如何使用Github和Hexo搭建个人博客（占坑）](20181219_如何使用Github和Hexo搭建个人博客.md)
+
+### # Linux
