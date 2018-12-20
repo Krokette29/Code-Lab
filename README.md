@@ -1,6 +1,7 @@
 # Krokette's Code Lab
 > 想成为程序猿的一名攻城狮  
-> 2018年12月20日  
+> Stay hungry. Stay foolish.  
+> 
 > 各位圣诞快乐！
 
 ![](http://images.youshang.com/club/cms/uploadfile/2010/1119/20101119020539973.jpg)  
@@ -18,3 +19,5 @@
 [2018-12-20 Linux学习笔记（持续更新）](20181220_Linux学习笔记（持续更新）.md)
 
 ### # 机器学习
+
+> 2018年12月20日
