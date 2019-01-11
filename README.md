@@ -10,6 +10,8 @@
 ![](Pictures/Main/Surface.jpg)  
 
 ## 最新动态
+[2019-01-11 《从Bellman算法聊控制理论》发布](20190111_从Bellman算法聊控制理论.md)
+
 [2019-01-10 《rm -rf /*梗的由来》发布，完结](20190103_rm-rf杆星梗的由来.md)
 
 [2019-01-08 《Jupyter在Windows中的安装与使用教程》发布](20190108_Jupyter在Windows中的安装与使用教程.md)
