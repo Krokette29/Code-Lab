@@ -82,6 +82,7 @@
 	All finished pages:      4
 	All writing pages:       2
 	All ideas:               6
+	------
 	Finished tech pages:     3
 	Writing tech pages:      2
 	Tech ideas:              4
