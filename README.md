@@ -78,6 +78,7 @@
 > 
 > 2019-01-15  
 
+	STATISTICS
 	All pages:               6
 	All finished pages:      4
 	All writing pages:       2
