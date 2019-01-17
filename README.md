@@ -11,6 +11,8 @@
 ----------
 
 # Updated
+[2019-01-17 《Bellman方程概述及其应用与扩展》完结](20190111_Bellman方程概述及其应用与扩展.md)
+
 [2019-01-14 《Linux学习笔记-持续更新》更新](20181221_Linux学习笔记.md)
 
 [2019-01-12 《冰岛一周自驾环岛游记》小更新](20181230_冰岛一周自驾环岛游记.md)
@@ -29,8 +31,6 @@
 
 [2018-12-30 《冰岛一周自驾环岛游记》发布](20181230_冰岛一周自驾环岛游记.md)
 
-[2018-12-21 《Linux学习笔记-持续更新》发布](20181221_Linux学习笔记.md)
-
 ----------
 
 # Tech Pages
@@ -47,7 +47,7 @@
 [2019-01-08 Jupyter在Windows中的安装与使用教程（完）](20190108_Jupyter在Windows中的安装与使用教程.md)
 
 ### # 优化理论
-[2019-01-11 Bellman方程概述及其应用与扩展（坑）](20190111_Bellman方程概述及其应用与扩展.md)
+[2019-01-11 Bellman方程概述及其应用与扩展（完）](20190111_Bellman方程概述及其应用与扩展.md)
 
 ----------
 
@@ -67,8 +67,8 @@
 
 	STATISTICS
 	All pages:              6
-	All finished pages:     4
-	All writing pages:      2
+	All finished pages:     5
+	All writing pages:      1
 	------
-	Finished tech pages:    3
-	Writing tech pages:     2
+	Finished tech pages:    4
+	Writing tech pages:     1
