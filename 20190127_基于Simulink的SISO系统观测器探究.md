@@ -171,10 +171,10 @@ L=[0;0]
 
 ----------
 > 参考资料：  
-> ![百度知道-已知状态空间模型的矩阵ABCD和观测器增益矩阵K，那么用simulink仿真检验跟踪效果时，如何仿真？](https://zhidao.baidu.com/question/1947016050623336708.html)  
-> ![Simulink快速入门-创建简单模型](https://ww2.mathworks.cn/help/simulink/gs/create-a-simple-model.html?s_cid=learn_doc)  
-> ![CSDN博客-Simulink学习笔记（一）——构建Simulink框图](https://blog.csdn.net/weixin_41695564/article/details/80742321)  
-> ![百度知道-怎样在matlab function模块中实现多输入](https://zhidao.baidu.com/question/1366600520973670379.html)  
+> [百度知道-已知状态空间模型的矩阵ABCD和观测器增益矩阵K，那么用simulink仿真检验跟踪效果时，如何仿真？](https://zhidao.baidu.com/question/1947016050623336708.html)  
+> [Simulink快速入门-创建简单模型](https://ww2.mathworks.cn/help/simulink/gs/create-a-simple-model.html?s_cid=learn_doc)  
+> [CSDN博客-Simulink学习笔记（一）——构建Simulink框图](https://blog.csdn.net/weixin_41695564/article/details/80742321)  
+> [百度知道-怎样在matlab function模块中实现多输入](https://zhidao.baidu.com/question/1366600520973670379.html)  
 > RLM Skript at KIT
 
 [`返回`](README.md)  
