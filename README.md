@@ -13,6 +13,8 @@
 ----------
 
 # Updated
+[2019-03-25 《KIT《线性多体系统控制》课程框架》发布，完结](20190325_KIT《线性多体系统控制》课程框架.md)
+
 [2019-03-25 《KIT《Passive Bauelemente》课程框架》发布，完结](20190325_KIT《Passive Bauelemente》课程框架.md)
 
 [2019-03-24 《KIT《机器学习1》课程框架》发布，完结](20190324_KIT《机器学习1》课程框架.md)
@@ -30,8 +32,6 @@
 [2019-01-23 《如何理解随机变量的特征函数》完结](20190118_如何理解随机变量的特征函数.md)
 
 [2019-01-18 《如何理解随机变量的特征函数》发布](20190118_如何理解随机变量的特征函数.md)
-
-[2019-01-17 《Bellman方程概述及其应用与扩展》完结](20190111_Bellman方程概述及其应用与扩展.md)
 
 ----------
 
@@ -71,6 +71,8 @@
 # Course Summary
 
 ### # KIT
+[2019-03-25 KIT《线性多体系统控制》课程框架（完)](20190325_KIT《线性多体系统控制》课程框架.md)
+
 [2019-03-25 KIT《Passive Bauelemente》课程框架（完）](20190325_KIT《Passive Bauelemente》课程框架.md)
 
 [2019-03-24 KIT《机器学习1》课程框架（完）](20190324_KIT《机器学习1》课程框架.md)
@@ -92,9 +94,9 @@
 > 2019-03-25  
 
 	STATISTICS
-	All pages:              14
-	All finished pages:     13
+	All pages:              15
+	All finished pages:     14
 	All writing pages:      1
 	------
-	Finished tech pages:    12
+	Finished tech pages:    13
 	Writing tech pages:     1
