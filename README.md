@@ -102,9 +102,9 @@
 > 2019-03-29  
 
 	STATISTICS
-	All pages:              19
-	All finished pages:     18
+	All pages:              20
+	All finished pages:     19
 	All writing pages:      1
 	------
-	Finished tech pages:    17
+	Finished tech pages:    18
 	Writing tech pages:     1
