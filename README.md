@@ -9,6 +9,8 @@
 ----------
 
 # Updated
+[2019-05-17 《Python惯例》转载，完结](20190517_Python惯例.md)
+
 [2019-05-03 《Python之禅》转载，完结](20190503_Python之禅.md)
 
 [2019-03-28 《巴特尔玩家分类模型》发布，完结](20190328_巴特尔玩家分类模型.md)
@@ -27,8 +29,6 @@
 
 [2019-01-31 《NTC, PTC与varistor》发布，完结](20190131_NTC,PTC与varistor.md)
 
-[2019-01-27 《基于Simulink的SISO系统观测器探究》发布，完结](20190127_基于Simulink的SISO系统观测器探究.md)
-
 ----------
 
 # Tech Pages
@@ -42,6 +42,8 @@
 [2018-12-21 Linux入门教程（坑）](20181221_Linux入门教程.md)
 
 ### # Python
+[2019-05-17 Python惯例（转）](20190517_Python惯例.md)
+
 [2019-05-03 Python之禅（转）](20190503_Python之禅.md)
 
 ### # 机器学习
@@ -102,9 +104,9 @@
 > 2019-03-29  
 
 	STATISTICS
-	All pages:              20
-	All finished pages:     19
+	All pages:              21
+	All finished pages:     20
 	All writing pages:      1
 	------
-	Finished tech pages:    18
+	Finished tech pages:    19
 	Writing tech pages:     1
